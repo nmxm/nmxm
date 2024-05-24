@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmxm (Nuno)
 - 👀 I’m interested in Data Science & Project Management
-- 🌱 I’m currently learning Python and Database programming
+- 🌱 I’m currently learning Python, Database programming & Cloud Computing
 - 💞️ I’m looking to collaborate on Data Science Project from Data Viz to Deep Learning
 - 📫 How to reach me nunomxm@gmail.com
 - 😄 Pronouns: He / His
