@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmxm
+- 👋 Hi, I’m @nmxm (Nuno)
 - 👀 I’m interested in Data Science & Project Management
 - 🌱 I’m currently learning Python and Database programming
 - 💞️ I’m looking to collaborate on Data Science Project from Data Viz to Deep Learning
